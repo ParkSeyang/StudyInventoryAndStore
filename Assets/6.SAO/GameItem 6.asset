@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5848f437ecf0cbb49899ded8afc508ce, type: 3}
+  m_Name: GameItem 6
+  m_EditorClassIdentifier: Assembly-CSharp::ItemSystem
+  Key: 6
+  Name: BarbequeMeet
+  Description: food Item
+  Icon: {fileID: 1915939011538280112, guid: 1a7700c993c3dd74fb4cf8dcd3bdc24b, type: 3}
+  Price: 45
+  Tag: Meetfood
